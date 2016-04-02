@@ -7,7 +7,7 @@ margin: 0px;
 
 header{
            background-color: black;
-           width: 1450px;
+          
            height: 100px;
            position: relative;
 }
@@ -19,7 +19,7 @@ header img{
 header nav{
              float right;
              position: absolute;
-             right: 130px;
+             right: 30px;
              top: 50px;
   
 }
@@ -31,16 +31,20 @@ header nav ul li{
 }
 body{
     background-color: #dedede;
-    width:1450px;
+   
+
 
 
 
 
 }
 
+
 .pagelay{
-margin: 3%;
+
 box-shadow: 0 0 8px #000;
+margin: 20px;
+
 
 }
 
@@ -59,7 +63,7 @@ padding-top: 30px;
 .secondlabel{
 
 color: #696969;
-padding-bottom: 20px;
+
 
 }
 .paragraph{
