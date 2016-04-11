@@ -1,0 +1,332 @@
+*{
+
+ margin: 0;
+ padding: 0;
+
+}
+body{
+
+ 
+  background-color: #666666;
+  font-size: 12px;
+ 
+
+}
+body>div{
+
+width: 980px;
+height: 1386px;
+margin: 0 auto;
+background-color: white;
+
+}
+.top
+
+{
+  width: 892px;
+  height: 61px;
+  margin: 0 auto;
+  border-bottom: 2px solid #938e8c;
+
+
+}
+.square{
+
+ width: 110px;
+ height: 61px;
+ display: inline-block;/*这里有个问题*/
+ background-color: red;
+
+
+
+}
+.square p
+  {
+
+	color: #ffffff;
+	font-family: "黑体";
+	font-size: 12px;
+    margin-top: 40px;
+	margin-left: 3px;
+	
+   }
+   .top time{
+
+    float: right;
+    margin-top: 45px;
+
+
+
+   }
+.body{
+  
+  width: 892px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+ .middle-right{
+
+   width: 203px;
+   height: 301px;
+   float: right;
+   border-top: 2px solid #cc8091;
+   position: relative;
+ 
+
+
+ }
+ .about{
+
+   font-size: 24px;
+   font-family: "微软雅黑";
+   color: #000000;
+   text-decoration: underline;
+  
+   font-variant: small-caps;
+   text-transform:capitalize;
+
+ }
+ .small{
+
+    font-size: 12px;
+    color: #676767;
+    font-family: "楷体";
+    line-height: 10px;
+  }
+ #s700{
+   font-size: 116px;
+   color: #75b86b;
+   font-family: "微软雅黑";
+   font-style: oblique;
+   margin-left: -15px;
+
+
+
+ }
+ #s32{
+  
+   font-size: 55px;
+   color: #cc8091;
+   font-family: "微软雅黑";
+   display: inline-block;
+   position: absolute;
+   bottom: -10px;
+
+
+ }
+
+ #pcss{
+  font-size: 21px;
+  color: #cc8091;
+  font-family: "微软雅黑";
+  margin-left: 79px;
+  position: absolute;
+  bottom: 10px;
+ 
+
+
+}
+#csscss{
+
+  margin-left: 79px;
+  position: absolute;
+   bottom: 0px;
+	
+}
+.middle2{
+	width: 230px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	position:relative;
+
+
+}
+
+.wwh{font-size: 16px; 
+	font-family: "微软雅黑"; text-decoration: underline;}
+#firstul{
+	list-style: none;
+    position: absolute;
+    left: 5px;
+    bottom: 30px;
+}
+#firstul li span{
+
+   font-style: oblique;
+   line-height: 16px;
+   color: #cd4a48;
+   filter:alpha(opacity=70);/*字体的不透明度*/
+
+}
+.fourth_left{
+
+ width: 400px;
+ height: 700px;
+ float: left;
+
+
+
+
+
+}
+
+.fourth_right{
+  width: 458px;
+  height: 700px;
+  float: right;
+  margin-left: 10px;
+
+
+}
+#left_top{
+	height: 180px;
+    font-size: 42px;
+    font-family: "黑体";
+    color: #11456b;
+    border-bottom: 2px solid #11456b;
+  
+
+}
+#the{
+	font-size: 72px;
+	font-style: oblique;
+	color: #f5e327;
+}
+#left_bottom{
+
+ margin-top: 20px;
+ position: relative;
+
+}
+#left_bottom span{
+   
+font-size: 70px;
+font-family: "宋体";
+color: #f5e327;
+float: left;
+
+}
+ .p{
+  font-family: "宋体";
+  color: #767777;
+  margin-top: 16px;
+}
+.pl{
+
+	text-indent: 2em;
+}
+#left_bottom img{
+
+ float: right;
+ margin-top: 20px;
+ margin-left: 15px;
+ margin-bottom: 20px;
+
+
+}
+#qian_jpg{
+  
+  width: 458px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  
+
+
+}
+.right_bottom{
+
+  background-color: #eeeed6;
+  margin-top: 20px;
+  width: 458px;
+  height: 350px;
+  position: relative;
+
+
+}
+.ul {
+
+   display: inline-block;
+   font-size: 16px;
+   font-family: "宋体";
+   margin-left: 50px;
+   margin-top: 40px;
+   margin-bottom: 30px;
+   color: #5a5b5a;
+
+}
+.ul li{
+
+ list-style-image: url(../img/task06-triangle.png);
+ margin-top: 20px;
+
+
+}
+.bottom_red{
+
+ width: 260px;
+ height: 160px;
+ background-color: #d55d5c;
+ float: left;
+
+ 
+
+}
+.zero{
+  float: left;
+font-size: 110px;
+color: #fff;
+font-family: "微软雅黑";
+border-right: 2px solid #fff;
+height: 86px;
+line-height: 86px;
+margin: 37px 10px;
+}
+.one{
+   
+  float: right; 
+  height: 86px;
+  margin-top: 25px;
+  margin-right: 30px;
+
+
+}
+.number{
+
+margin-top: 37px;
+font-size: 21px;
+font-family: "黑体";
+font-style: oblique;
+line-height: 24px;
+color: #fff;
+
+}
+.hw{
+
+ color: #ffffff;
+ font-size: 12px;
+ font-family: "黑体";
+ line-height: 6px;
+
+}
+.lastP{
+
+ position: absolute;
+ width: 180px;
+ right: 10px;
+
+}
+.footer{
+margin: 0 auto;
+width: 892px;
+height: 59px;
+clear: both;
+
+
+}
+.footer p{
+  display: inline-block;
+
+  float: right;
+
+}
